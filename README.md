@@ -3,6 +3,5 @@ Applikasi forum diskusi/komunikasi bagi siswa SMK yang di buat dalam rangka meny
 
 
 
-![SS1(https://raw.githubusercontent.com/robbyn36/eforum/main/screenshot/1.png)
-![SS1(https://raw.githubusercontent.com/robbyn36/eforum/main/screenshot/2.png)
-![SS1(https://raw.githubusercontent.com/robbyn36/eforum/main/screenshot/3.png)
+![SS1(https://github.com/robbyn36/eforum/blob/main/screenshot/1.png)
+![SS2(https://github.com/robbyn36/eforum/blob/main/screenshot/2.png?raw=true)
