@@ -1,0 +1,9 @@
+@charset "utf-8";
+#tulisan {
+	width: 900px;
+	margin-right: 200px;
+	margin-left: 200px;
+	font-family: "Comic Sans MS", cursive;
+	font-size: 14px;
+	background-color: #FFFFFF;
+}

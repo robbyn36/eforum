@@ -1,0 +1,36 @@
+@charset "utf-8";
+#header {
+	height: 229px;
+	width: 900px;
+	margin-right: 200px;
+	margin-bottom: 30px;
+	margin-left: 200px;
+	border: 2px solid #76c8f4;
+	border-radius: 15px;
+}
+#formlogin {
+	font-family: Verdana, Geneva, sans-serif;
+	width: 500px;
+	background-color: #FFFFFF;
+	margin-left: 200px;
+	border: 2px solid #76c8f4;
+	border-radius: 15px;
+}
+#formlogin #form1 table {
+	width: 450px;
+	margin-left: 30px;
+}
+#formlogin #form1 table tr th #id {
+	width: 300px;
+}
+#formlogin #form1 table tr th #password {
+	width: 300px;
+}
+#formlogin #form1 #tombol {
+	width: 57px;
+	float: right;
+	margin-top: 10px;
+}
+#formlogin #form1 p .putih {
+	margin-left: 30px;
+}

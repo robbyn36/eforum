@@ -1,0 +1,26 @@
+@charset "utf-8";
+#header {
+	height: 229px;
+	width: 900px;
+	margin-right: 200px;
+	margin-bottom: 30px;
+	margin-left: 200px;
+}
+#tulisan table tr td #form2 div {
+	font-size: 14px;
+}
+#tulisan table tr td #form3 div {
+	font-size: 14px;
+}
+#tulisan table tr td form div {
+	font-size: 14px;
+}
+#tulisan table tr td {
+	font-size: 14px;
+}
+#tulisan form strong {
+	font-size: 16px;
+}
+#tulisan #form1 table .head1 th table {
+	margin-bottom: 10px;
+}

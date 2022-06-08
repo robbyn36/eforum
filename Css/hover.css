@@ -1,0 +1,7 @@
+@charset "utf-8";
+#tulisan #form1 div table tr th{
+	background-color: #FFFFFF;
+}
+#tulisan #form1 div table tr th:hover {
+	background-color: #1497ec;
+}

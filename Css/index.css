@@ -1,0 +1,23 @@
+@charset "utf-8";
+#menu {
+	width: 900px;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+#header {
+	height: 229px;
+	width: 900px;
+	margin-right: 200px;
+	margin-bottom: 30px;
+	margin-left: 200px;
+}
+#menu #kelas {
+	height: 50px;
+	width: 450px;
+	float: right;
+	left: 660px;
+	top: 270px;
+}
+#menu #kelas table tr th p a img:hover {
+	background-image: url(../Menu/Kelas1_up.png);
+}
