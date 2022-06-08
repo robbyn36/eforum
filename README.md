@@ -3,4 +3,6 @@ Applikasi forum diskusi/komunikasi bagi siswa SMK yang di buat dalam rangka meny
 
 
 
-![Minion](https://octodex.github.com/images/minion.png)
+![SS1(https://raw.githubusercontent.com/robbyn36/eforum/main/screenshot/1.png)
+![SS1(https://raw.githubusercontent.com/robbyn36/eforum/main/screenshot/2.png)
+![SS1(https://raw.githubusercontent.com/robbyn36/eforum/main/screenshot/3.png)
